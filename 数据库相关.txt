@@ -1,10 +1,9 @@
 server.port=8087
 spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
 spring.datasource.driver-class-name= com.mysql.jdbc.Driver
-#spring.datasource.url=jdbc:mysql://rm-2ze4rc08sin9bgb346o.mysql.rds.aliyuncs.com:3308/sxkkrs_722?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+
 spring.datasource.url=jdbc:mysql://221.226.9.85:3367/hoqc?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
-#spring.datasource.username=sunxk_krs722
-#spring.datasource.password=Sunxk863
+
 spring.datasource.username=hoqc
 spring.datasource.password=hoqc@0413.
 spring.jpa.hibernate.ddl-auto=update
